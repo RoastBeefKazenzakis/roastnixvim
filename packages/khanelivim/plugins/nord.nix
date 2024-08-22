@@ -1,13 +1,11 @@
 _: {
 
-  colorschemes.catppuccin = {
+  colorschemes.nord = {
     settings = {
       dim_inactive = {
         enabled = false;
         percentage = 0.25;
       };
-
-      flavour = "macchiato";
 
       integrations = {
         aerial = true;
