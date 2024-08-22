@@ -2,10 +2,6 @@ _: {
 
   colorschemes.nord = {
     settings = {
-      dim_inactive = {
-        enabled = false;
-        percentage = 0.25;
-      };
 
       integrations = {
         aerial = true;
