@@ -2,7 +2,6 @@ _: {
 
   colorschemes.nord = {
     settings = {
-
       integrations = {
         aerial = true;
         cmp = true;
