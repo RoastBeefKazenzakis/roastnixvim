@@ -1,5 +1,5 @@
 {
-  description = "KhaneliVim";
+  description = "RoastNixVim";
 
   inputs = {
     # NixPkgs (nixos-unstable)
