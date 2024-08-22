@@ -15,7 +15,7 @@ in
     };
   };
 
-  colorschemes.catppuccin.enable = true;
+  colorschemes.nord.enable = true;
   highlight.ExtraWhitespace.bg = "red"; # Highlight extra white spaces
   luaLoader.enable = true;
   match.ExtraWhitespace = "\\s\\+$"; # Remove extra white spaces
@@ -83,6 +83,8 @@ in
 
   opts = {
     updatetime = 100; # Faster completion
+
+    viAlias = true; # I am too spastic to type nvim
 
     # Line numbers
     relativenumber = true; # Relative line numbers
